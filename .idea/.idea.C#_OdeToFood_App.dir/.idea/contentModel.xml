@@ -48,7 +48,6 @@
       <e p="Properties" t="Include">
         <e p="launchSettings.json" t="Include" />
       </e>
-      <e p="README.md" t="Include" />
       <e p="Services" t="Include">
         <e p="IRestaurantData.cs" t="Include" />
       </e>
